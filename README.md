@@ -1,6 +1,6 @@
 #  Enzo Santos 🔥
 
-Fala, galera! 👋 Eu sou **Enzo Santos**, um dev de **14 anos** morando em **São Paulo, SP**, com o sonho de virar **engenheiro de software** e fazer a diferença no mundo tech! 🚀 Apaixonado por código, estou aprendendo Python na Harvard com CS50P e já bati um bolão como júnior em Lua, trabalhando em servidores MTA. Também pego umas dicas de marketing digital pra turbinar meus projetos. Vamos conhecer meu rolê? 🎮💻
+Fala, galera! 👋 Eu sou **Enzo Santos**, um dev de **14 anos** morando em **São Paulo, SP**, com o sonho de virar **engenheiro de software** e fazer a diferença no mundo tech! 🚀 Apaixonado por código, estou aprendendo Python na Harvard com CS50P e já trabalhei  como júnior em Lua, trabalhando em servidores MTA.  Sobre Mim👇🏼 🎮💻
 
 ---
 
