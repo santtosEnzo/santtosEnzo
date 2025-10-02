@@ -1,64 +1,18 @@
-#  Enzo Santos 🔥
+# 💫 About Me:
+# 👋 Olá, eu sou o Enzo!<br><br>🎓 Tenho **14 anos** e sou apaixonado por **Tecnologia e Programação**.  <br>💻 Atualmente estudo **Python** e estou me aprofundando em lógica de programação.  <br>🌱 Sempre em busca de aprender novas ferramentas e crescer como desenvolvedor.  
 
-Fala, galera! 👋 Eu sou **Enzo Santos**, um dev de **14 anos** morando em **São Paulo, SP**, com o sonho de virar **engenheiro de software** e fazer a diferença no mundo tech! 🚀 Apaixonado por código, estou aprendendo Python na Harvard com CS50P e já trabalhei  como júnior em Lua, trabalhando em servidores MTA.  Sobre Mim👇🏼 🎮💻
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santtos___7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzorodrigues4002@gmail.com) 
 
-## 🚀 Quem Sou Eu?
-
-- **Idade**: 14 anos (jovem, mas com sede de aprender! 💪)
-- **Local**: São Paulo, SP - a terra da garoa e das ideias! 🌆
-- **Instagram**: [ @santtos.___7](https://instagram.com/santtos.___7) 📸
-- **Sonho**: Ser um engenheiro de software e criar sistemas foda! 💻
-- **Vibe**: Curto programar, aprender todo dia e misturar tech com marketing! 😎
-
----
-
-## 💻 Minhas Skills
-
-Aqui vão minhas armas no mundo da programação e marketing:
-
-- **Python** 🌱 - Aprendendo Com Cursos da Universidade de Harvard, focado em automação e mais!
-- **Lua** ✨ - Júnior com experiência em servidores MTA, criando scripts pra jogos.
-- **Marketing Digital** 📈 - Sei um pouco de estratégias pra engajar e crescer.
-- **Em Breve** ⚡ - Vou explorar JS, HTML/CSS e mais pra virar um dev completo!
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Santtos Enzo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Santtos Enzo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santtos Enzo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Santtos Enzo&icon=2&color=12)](https://visitcount.itsvg.in)
 
-## 🎯 Projetos em Destaque
-
-Tô começando, mas já tenho ideias foda pra compartilhar! Aqui vão alguns projetos que vou caprichar:
-
-- **Bot de Telegram** 🤖 - Um bot pra gerenciar leads (em desenvolvimento).
-- **Scripts MTA** 🎮 - Melhorias em servidores que já fiz, tipo comandos customizados.
-- **Ferramentas de Marketing** 📊 - Scripts em Python pra analisar dados (em progresso).
-
-Fica de olho nos meus repositórios pra ver meu crescimento! 🔧
-
----
-
-## 📊 Estatísticas (em Crescimento!)
-
-- **Repositórios**: Alguns projetos iniciais (ainda pequeno, mas crescendo! 📂)
-- **Seguidores**: Poucos por enquanto, mas tô construindo minha rede! 🙌
-- **Foco**: Mais energia em código do que em números agora! 🌟
-
----
-
-## 🌟 Conecte-se Comigo!
-
-- **Instagram**: [@santtos.___7](https://instagram.com/santtos.___7) - Rolês e dicas!
-
-Manda um oi ou collab! Tô aberto pra trocar ideia e criar algo maneiro juntos! 💬
-
----
-
-## 🎮 Minha História
-
-Comecei cedo na programação, mexendo em Lua pra servidores MTA e me apaixonando por criar sistemas. Hoje, com 14 anos, estou Cursando Ciencia Da Computação Na Universidade De Harvard aprendendo Python, e pego umas dicas de marketing digital pra turbinar meus projetos. Meu sonho é virar engenheiro de software e construir soluções incríveis saindo de SP! 🌟
-
----
-
-## 💡 Inspirando o Futuro
-
-"Sonho grande, code todo dia e nunca desisto! Aos 14 anos, tô só começando, mas vou chegar lá como engenheiro de software!" - Enzo Santos 💪
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
