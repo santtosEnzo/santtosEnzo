@@ -36,7 +36,7 @@
 - 🌍 I am from <b>São Paulo, Brazil</b> <br>
 - 🎓 14 years old, passionate about <b>technology and programming</b> <br>
 - 💻 Currently learning <b>Python</b> and building my foundation in programming logic <br>
-- 📚 Completed courses: <b>CS50P (Harvard)</b> and <b>Python 3 (Curso em Vídeo)</b> <br>
+- 📚 I'm Completing: <b>CS50P (Harvard)</b> Course Completed: <b>Python 3 (Curso em Vídeo)</b> <br>
 - 🚀 Always looking for new challenges and opportunities to grow as a developer
 </p>
 
