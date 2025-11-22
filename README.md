@@ -47,13 +47,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="80" alt="filezilla logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="80" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="vscode logo"  />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="80" alt="js logo"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="80" alt="HTML logo"/>
   <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" height="80" alt="css logo"/>
