@@ -54,6 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
 </div>
 
 ###
